@@ -1,0 +1,251 @@
+<rss version="2.0">
+  <channel>
+    <title>Latest Results</title>
+    <description>The latest content available from Springer</description>
+    <link>http://link.springer.com</link>
+    <item>
+      <title>Use of ordinary cokriging with magnetic susceptibility for mapping lead concentrations in soils of an urban contaminated site</title>
+      <description>
+                  &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                  &lt;span class=&quot;a-plus-plus abstract-section id-a-sec1&quot;&gt;
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Purpose&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;Lead contamination is a prevalent issue affecting cities worldwide. Traditional fieldwork and laboratory analysis techniques can be time-consuming and costly. The purpose of this study was to evaluate the performance of ordinary cokriging (CK) when volume magnetic susceptibility (&lt;em class=&quot;a-plus-plus&quot;&gt;κ&lt;/em&gt;) is used as a co-variable for spatial interpolation of Pb in contaminated urban soils.&lt;/p&gt;
+                  &lt;/span&gt;
+                  &lt;span class=&quot;a-plus-plus abstract-section id-a-sec2&quot;&gt;
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Materials and methods&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;The study was conducted in contaminated urban soils of a former unregulated landfill site. A total of 76 surface samples (0–10 cm) were collected using a systematic sampling grid separated by 20-m intervals. Magnetic susceptibility measurements were taken at a higher density of 10-m intervals with 288 measurements. Thus, it was used as an auxiliary variable to predict Pb concentrations by the CK procedure with an aim to improve spatial interpolation of Pb. To determine the effectiveness of CK over the ordinary kriging (OK) procedure, the spatial density of samples was reduced prior to interpolation. A total of ~ 15%, 25%, 35%, and 50% of the Pb samples were randomly selected and reserved for validation. Omnidirectional semivariograms and covariograms were fitted using log-transformed data prior to interpolation.&lt;/p&gt;
+                  &lt;/span&gt;
+                  &lt;span class=&quot;a-plus-plus abstract-section id-a-sec3&quot;&gt;
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Results and discussion&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;Measurements of &lt;em class=&quot;a-plus-plus&quot;&gt;κ&lt;/em&gt; shared a significant relationship with Pb concentrations by the Spearman’s Rho correlation analysis (&lt;em class=&quot;a-plus-plus&quot;&gt;r&lt;/em&gt;&lt;sub class=&quot;a-plus-plus&quot;&gt;s&lt;/sub&gt; = 0.676, &lt;em class=&quot;a-plus-plus&quot;&gt;p&lt;/em&gt; &amp;lt; 0.01). The effectiveness of the CK procedure over OK was determined using validation datasets. Statistically, the results showed that lnPb when its auxiliary relations with lnκ were used in CK had overall lower “root mean square error” (RMSE) and predicted lnPb values from the CK procedure had a higher &lt;em class=&quot;a-plus-plus&quot;&gt;r&lt;/em&gt;&lt;sup class=&quot;a-plus-plus&quot;&gt;2&lt;/sup&gt; value with measured lnPb than OK. A model produced by the CK procedure with a reduced spatial density of 49 Pb points provided the more accurate map with a RMSE of 0.550 and an &lt;em class=&quot;a-plus-plus&quot;&gt;r&lt;/em&gt;&lt;sup class=&quot;a-plus-plus&quot;&gt;2&lt;/sup&gt; value of 0.730, &lt;em class=&quot;a-plus-plus&quot;&gt;p&lt;/em&gt; &amp;lt; 0.01 level.&lt;/p&gt;
+                  &lt;/span&gt;
+                  &lt;span class=&quot;a-plus-plus abstract-section id-a-sec4&quot;&gt;
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Conclusions&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;This technique can potentially reduce fieldwork and soil analysis costs considerably. Measurements of Pb and &lt;em class=&quot;a-plus-plus&quot;&gt;κ&lt;/em&gt; must share a substantial level of spatial continuity to implement CK effectively. Where applicable, it can be used in the site-specific evaluation of hazard posed by Pb exposure to ecosystems, human health or water bodies in urban green spaces, roadside soils, allotments or brownfield sites.&lt;/p&gt;
+                  &lt;/span&gt;
+                </description>
+      <link>http://link.springer.com/10.1007/s11368-019-02537-7</link>
+      <pubDate>2019-12-16</pubDate>
+      <guid>10.1007/s11368-019-02537-7</guid>
+    </item>
+    <item>
+      <title>Review of Chinese atmospheric science research over the past 70 years: Atmospheric physics and atmospheric environment</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;Since the founding of the People’s Republic of China 70 years ago, the subject of atmospheric physics and atmospheric environment has developed rapidly in China, providing important support for the development of atmospheric science and guarantee for the development of national economy. In this paper, the general advancement of atmospheric physics and atmospheric environment in last 70 years was described. The main research progress of atmospheric physics and atmospheric environment in the past 40 years of reform and opening-up was reviewed, the outstanding research achievements since the 21st century were summarized, the major problems and challenges are pointed out, and the key directions and suggestions for future development are put forward.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s11430-019-9536-1</link>
+      <pubDate>2019-12-01</pubDate>
+      <guid>10.1007/s11430-019-9536-1</guid>
+    </item>
+    <item>
+      <title>A study on atmospheric turbulence structure and intermittency during heavy haze pollution in the Beijing area</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;In this study, the characteristics of turbulence transport and intermittency and the evolutionary mechanisms were studied in different pollution stages of heavy haze weather from December 2016 to January 2017 in the Beijing area using the method developed by Ren et al. (2019) as the automatic identification of atmospheric spectral gaps and the reconstruction of atmospheric turbulence sequences. The results reveal that turbulence intermittency is the strongest in the cumulative stage (CS) of heavy haze weather, followed by in the transport stage (TS), and it is the weakest in the dissipation stage (DS). During the development and accumulation of haze pollution, buoyancy contributes negatively to turbulent kinetic energy (TKE), and horizontal wind speed is low. The classical turbulent motion is often affected by submesoscale motion. As a result, the calculation results of turbulence parameters are affected by submesoscale motion, which causes intensified turbulence intermittency. During the dissipation of pollution, the downward momentum transfer induced by low-level jets provides kinetic energy for turbulent motion in the near surface layer. The turbulent mixing effect is enhanced, and intermittency is weakened. Due to the intermittency of atmospheric turbulence, turbulence parameters calculated from the original fluctuation of meteorological elements may be overestimated. The overestimation of turbulence parameters in the CS is the strongest, followed by the TS, and the DS is the weakest. The overestimation of turbulent fluxes results in an overestimation of atmospheric dissipation capability that may cause an underestimation of pollutant concentrations in the numerical simulations of air quality.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s11430-019-9451-0</link>
+      <pubDate>2019-12-01</pubDate>
+      <guid>10.1007/s11430-019-9451-0</guid>
+    </item>
+    <item>
+      <title>A new approach combining a simplified FLEXPART model and a Bayesian-RAT method for forecasting PM 10 and PM 2.5</title>
+      <description>
+                  &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                  &lt;p class=&quot;a-plus-plus&quot;&gt;In this study, we evaluated atmospheric particulate matter (PM) concentration predictions at a regional scale using a simplified Lagrangian particle dispersion modeling system and the Bayesian and multiplicative ratio correction optimization (Bayesian-RAT) method to improve the mixing ratio forecast of PM&lt;sub class=&quot;a-plus-plus&quot;&gt;10&lt;/sub&gt; and PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt;. We first examined the forecast performance of the LPD (i.e., the simplified FLEXPART model combined with the Bayesian-RAT method) by comparing the model predictions with the PM concentration observations from 95 observation stations in Xingtai city and its surrounding areas. The first 2 months (i.e., Oct. and Nov. 2017) of the study period represented the typical spin-up time period, and the analysis period was December 2017. The LPD forecast system was much better (correlation coefficient: R=0.64 vs. 0.48 and 0.67 vs. 0.50 for PM&lt;sub class=&quot;a-plus-plus&quot;&gt;10&lt;/sub&gt; and PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt;, respectively; root mean square error: RMSE = 74.98 vs. 105.96 μg/m&lt;sup class=&quot;a-plus-plus&quot;&gt;3&lt;/sup&gt; for PM&lt;sub class=&quot;a-plus-plus&quot;&gt;10&lt;/sub&gt; and 54.89 vs. 72.81 μg/m&lt;sup class=&quot;a-plus-plus&quot;&gt;3&lt;/sup&gt; for PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt;) than the pre-calibration results. We also compared the LPD forecasting model with other models (WRF-Chem and Camx) using data from monitoring stations in Xingtai, China, and the LPD forecasting model had higher accuracy than the other models. In particular, the RMSE scores for hourly PM&lt;sub class=&quot;a-plus-plus&quot;&gt;10&lt;/sub&gt; concentrations were reduced by 36.51% and 42.21% compared to WRF-Chem and to Camx, respectively. The PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt; forecast results, as in the case of PM&lt;sub class=&quot;a-plus-plus&quot;&gt;10&lt;/sub&gt;, showed a better performance when applying the LPD model to the data from the monitoring stations. The RMSE was reduced by 26.44% and 18.47% relative to the WRF-Chem and Camx, respectively. The results confirm that there is much advantage of the LPD forecast system for predicting PM and may be for other pollutants.&lt;/p&gt;
+                </description>
+      <link>http://link.springer.com/10.1007/s11356-019-06605-w</link>
+      <pubDate>2019-11-26</pubDate>
+      <guid>10.1007/s11356-019-06605-w</guid>
+    </item>
+    <item>
+      <title>Short-term PM2.5 forecasting based on CEEMD-RF in five cities of China</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;The development of industrial civilization has greatly enriched the material and spiritual life of human beings, but it is accompanied by the intensification of the consumption of earth resources and environmental pollution. The smog that has emerged in various parts of China in recent years is a typical problem, which not only endangers human health but also affects normal human work and life. It is difficult to control smog in a short time productively, so people need to understand the rule of smog formation gradually, and effectively predict the PM2.5 index to help people continuously analyze relevant mechanisms and timely protect-related hazards. This paper proposes a hybrid model that uses the Complementary Ensemble Empirical Modal Decomposition algorithm to mine the information in the original PM2.5 sequence and then predicts the pertinent random forests. The trend of PM2.5 concentration during the decomposition process is effectively reflected, and the decomposition sequence is modeled by the high tolerance of the random forest to the noise data and the good fitting ability. In the modeling process, the parameters are optimized according to the evaluation function of the model on the verification set, and eventually, the prediction sequences are superimposed to obtain the final predicted PM2.5 concentration value. The validity of the model is verified by the data of several Chinese cities with different geographical features in the past 5 years. The results show that the recommendation model is higher than other comparison models in terms of model stability and prediction accuracy.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s11356-019-06339-9</link>
+      <pubDate>2019-11-01</pubDate>
+      <guid>10.1007/s11356-019-06339-9</guid>
+    </item>
+    <item>
+      <title>Abstracts from the 5th International Conference on Prevention &amp;amp; Infection Control (ICPIC 2019)</title>
+      <description></description>
+      <link>http://link.springer.com/10.1186/s13756-019-0567-6</link>
+      <pubDate>2019-09-09</pubDate>
+      <guid>10.1186/s13756-019-0567-6</guid>
+    </item>
+    <item>
+      <title>Health Effects of Climate Change Through Temperature and Air Pollution</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;span class=&quot;a-plus-plus abstract-section id-a-sec1&quot;&gt;
+                      &lt;h3 class=&quot;a-plus-plus&quot;&gt;Purpose of Review&lt;/h3&gt;
+                      &lt;p class=&quot;a-plus-plus&quot;&gt;Recognizing health effects of changes in temperature caused by climate change and changes in air pollution affected by temperature changes on human health, predicting the health effects of both future temperature changes and air quality changes caused by climate change is critical to adopting a range of measures to respond to future climate change. The purpose of this review is to summarize studies on the health effects of temperature and air quality changes affected by climate change directly or indirectly, and to summarize the limitations of these studies.&lt;/p&gt;
+                    &lt;/span&gt;
+                    &lt;span class=&quot;a-plus-plus abstract-section id-a-sec2&quot;&gt;
+                      &lt;h3 class=&quot;a-plus-plus&quot;&gt;Recent Findings&lt;/h3&gt;
+                      &lt;p class=&quot;a-plus-plus&quot;&gt;After summarizing the main methods and results, we conclude that past temperature changes and air pollution caused by climate change directly or indirectly have a serious impact on the mortality or morbidity of human diseases, and climate change does impact human health and will exacerbate these effects. Moreover, it may have spatial and socioeconomic differences in the world. Nonetheless, these studies also indicate that policies about climate change and emission reduction can reduce these effects.&lt;/p&gt;
+                    &lt;/span&gt;
+                    &lt;span class=&quot;a-plus-plus abstract-section id-a-sec3&quot;&gt;
+                      &lt;h3 class=&quot;a-plus-plus&quot;&gt;Summary&lt;/h3&gt;
+                      &lt;p class=&quot;a-plus-plus&quot;&gt;The evaluation focuses on the interaction between temperature change and air quality caused by climate change and assesses the impact of both on human health. There are still some uncertainties in existing research, and future health predictions related to climate change should focus on quantitative exploration of temperature and air pollution changes, eliminate interference caused by factors such as industrialization, and demographic changes, while the choice of meteorological conditions should be further extended, not just limited to the temperature and air quality.&lt;/p&gt;
+                    &lt;/span&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s40726-019-00112-9</link>
+      <pubDate>2019-09-01</pubDate>
+      <guid>10.1007/s40726-019-00112-9</guid>
+    </item>
+    <item>
+      <title>Macao air quality forecast using statistical methods</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;The levels of air pollution in Macao often exceeded the levels recommended by WHO. In order for the population to take precautionary measures and avoid further health risks under high pollutant exposure, it is important to develop a reliable air quality forecast. Statistical models based on linear multiple regression (MR) and classification and regression trees (CART) analysis were developed successfully, for Macao, to predict the next day concentrations of NO&lt;sub class=&quot;a-plus-plus&quot;&gt;2&lt;/sub&gt;, PM&lt;sub class=&quot;a-plus-plus&quot;&gt;10&lt;/sub&gt;, PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt;, and O&lt;sub class=&quot;a-plus-plus&quot;&gt;3&lt;/sub&gt;. All the developed models were statistically significantly valid with a 95% confidence level with high coefficients of determination (from 0.78 to 0.93) for all pollutants. The models utilized meteorological and air quality variables based on 5 years of historical data, from 2013 to 2017. Data from 2013 to 2016 were used to develop the statistical models and data from 2017 was used for validation purposes. A wide range of meteorological and air quality variables was identified, and only some were selected as significant independent variables. Meteorological variables were selected from an extensive list of variables, including geopotential height, relative humidity, atmospheric stability, and air temperature at different vertical levels. Air quality variables translate the resilience of the recent past concentrations of each pollutant and usually are maximum and/or the average of latest 24-h levels. The models were applied in forecasting the next day average daily concentrations for NO&lt;sub class=&quot;a-plus-plus&quot;&gt;2&lt;/sub&gt; and PM and maximum hourly O&lt;sub class=&quot;a-plus-plus&quot;&gt;3&lt;/sub&gt; levels for five air quality monitoring stations. The results are expected to be an operational air quality forecast for Macao.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s11869-019-00721-9</link>
+      <pubDate>2019-09-01</pubDate>
+      <guid>10.1007/s11869-019-00721-9</guid>
+    </item>
+    <item>
+      <title>Low Levels of Air Pollution and Health: Effect Estimates, Methodological Challenges, and Future Directions</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;span class=&quot;a-plus-plus abstract-section id-a-sec1&quot;&gt;
+                      &lt;h3 class=&quot;a-plus-plus&quot;&gt;Purpose of Review&lt;/h3&gt;
+                      &lt;p class=&quot;a-plus-plus&quot;&gt;Fine particle (PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt;) levels have been decreasing in the USA over the past decades. Our goal was to assess the current literature to characterize the association between PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt; and adverse health at low exposure levels.&lt;/p&gt;
+                    &lt;/span&gt;
+                    &lt;span class=&quot;a-plus-plus abstract-section id-a-sec2&quot;&gt;
+                      &lt;h3 class=&quot;a-plus-plus&quot;&gt;Recent Findings&lt;/h3&gt;
+                      &lt;p class=&quot;a-plus-plus&quot;&gt;We reviewed 26 papers that examined the association between short- and long-term exposure to PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt; and cardio-respiratory morbidity and mortality. There is evidence suggesting that these associations are stronger at lower levels. However, there are certain methodological and interpretational limitations specific to studies of low PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt; levels, and further methodological development is warranted.&lt;/p&gt;
+                    &lt;/span&gt;
+                    &lt;span class=&quot;a-plus-plus abstract-section id-a-sec3&quot;&gt;
+                      &lt;h3 class=&quot;a-plus-plus&quot;&gt;Summary&lt;/h3&gt;
+                      &lt;p class=&quot;a-plus-plus&quot;&gt;There is strong agreement across studies that air pollution effects on adverse health are still observable at low concentrations, even well below current US standards. These findings suggest that US standards need to be reevaluated, given that further improving air quality has the potential of benefiting public health.&lt;/p&gt;
+                    &lt;/span&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s40572-019-00235-7</link>
+      <pubDate>2019-09-01</pubDate>
+      <guid>10.1007/s40572-019-00235-7</guid>
+    </item>
+    <item>
+      <title>55 th EASD Annual Meeting of the European Association for the Study of Diabetes</title>
+      <description></description>
+      <link>http://link.springer.com/10.1007/s00125-019-4946-6</link>
+      <pubDate>2019-09-01</pubDate>
+      <guid>10.1007/s00125-019-4946-6</guid>
+    </item>
+    <item>
+      <title>Multi-objective particle swarm optimization-based adaptive neuro-fuzzy inference system for benzene monitoring</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;Air pollutants such as benzene (&lt;span class=&quot;a-plus-plus inline-equation id-i-eq1&quot;&gt;
+                        
+                        &lt;span class=&quot;a-plus-plus equation-source format-t-e-x&quot;&gt;\(\text {C}_6\text {H}_6\)&lt;/span&gt;
+                        
+                      &lt;/span&gt;) have accelerated the rate of cancer among human beings. Currently, atmospheric contamination is measured using spatially separated networks with limited sensors. However, the expenses involving multiple sensors with varying sizes limit the operational efficiency. Therefore, in this paper, a novel multi-objective regression model is proposed to predict benzene concentration in the ambient air pollution data, without need to deploy actual sensors for benzene detection. It is possible because there is a relation among various atmospheric gasses and thus regression can be performed to measure &lt;span class=&quot;a-plus-plus inline-equation id-i-eq2&quot;&gt;
+                        
+                        &lt;span class=&quot;a-plus-plus equation-source format-t-e-x&quot;&gt;\(\text {C}_6\text {H}_6\)&lt;/span&gt;
+                        
+                      &lt;/span&gt; if the concentration level of other gasses is known. Proposed technique utilizes adaptive neuro-fuzzy inference system (ANFIS) and particle swarm optimization (PSO) to predict &lt;span class=&quot;a-plus-plus inline-equation id-i-eq3&quot;&gt;
+                        
+                        &lt;span class=&quot;a-plus-plus equation-source format-t-e-x&quot;&gt;\(\text {C}_6\text {H}_6\)&lt;/span&gt;
+                        
+                      &lt;/span&gt; density in the air. PSO is employed to enhance the accuracy of ANFIS for runtime parameter tuning by calculating multi-objective fitness function which involves accuracy, root mean squared error and correlation (&lt;em class=&quot;a-plus-plus&quot;&gt;r&lt;/em&gt;). The proposed technique is tested on well-known publicly available air pollution datasets and on real-time primary dataset for quantitative analysis. Experimental results indicate that the proposed method consistently outperforms over available methods to predict &lt;span class=&quot;a-plus-plus inline-equation id-i-eq4&quot;&gt;
+                        
+                        &lt;span class=&quot;a-plus-plus equation-source format-t-e-x&quot;&gt;\(\text {C}_6\text {H}_6\)&lt;/span&gt;
+                        
+                      &lt;/span&gt; concentration in the atmosphere. Thus, it is well suitable to build self-dependable time and cost-effective benzene prediction model.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s00521-017-3181-7</link>
+      <pubDate>2019-07-01</pubDate>
+      <guid>10.1007/s00521-017-3181-7</guid>
+    </item>
+    <item>
+      <title>Mapping human health risk by geostatistical method: a case study of mercury in drinking groundwater resource of the central ganga alluvial plain, northern India</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;Human health is “at risk” from exposure to sub-lethal elemental occurrences at a local and or regional scale. This is of global concern as good-quality drinking water is a basic need for our wellbeing. In the present study, the “probability kriging,” a geostatistical method that has been used to predict the risk magnitude of the areas where the probability of dissolved mercury concentration (&lt;em class=&quot;a-plus-plus&quot;&gt;d&lt;/em&gt;Hg) is higher than the World Health Organization (WHO) permissible limit. The method was applied to geochemical data of &lt;em class=&quot;a-plus-plus&quot;&gt;d&lt;/em&gt;Hg concentration in 100 drinking groundwater samples of Lucknow monitoring area (1222 km&lt;sup class=&quot;a-plus-plus&quot;&gt;2)&lt;/sup&gt; located within the Ganga Alluvial Plain, India. Threefold (high to extreme risk) and twofold (moderate risk) higher &lt;em class=&quot;a-plus-plus&quot;&gt;d&lt;/em&gt;Hg concentration values than the WHO permissible limit were observed in all of the groundwater samples. The generated prediction map using the probability kriging method shows that the probability of exceedance of &lt;em class=&quot;a-plus-plus&quot;&gt;d&lt;/em&gt;Hg is the highest in the northwestern part of the Lucknow monitoring area due to anthropogenic interferences. The hotspots with high to very high probability are potentially alarming in the urban sector where 32.4% of the total population is residing in 6.8% of the total area. Interpolation of local estimates results in an easily readable and communicable human health risk map. It may help to consider substantial remediation measures for managing drinking water resources of the Ganga Alluvial Plain, which is among the anthropogenic mercury emission–dominated regions of the world.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s10661-019-7427-y</link>
+      <pubDate>2019-06-28</pubDate>
+      <guid>10.1007/s10661-019-7427-y</guid>
+    </item>
+    <item>
+      <title>Novel hybrid model for daily prediction of PM 10 using principal component analysis and artificial neural network</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;Prediction of air pollutants in particular those related to PM&lt;sub class=&quot;a-plus-plus&quot;&gt;10&lt;/sub&gt; has developed a huge interest in recent years, mainly due to its impact on environment and humans. There are a large number of factors that influence air pollutant prediction. The researcher has to select the most relevant one by combining different input variables combinations in order to find the combination that provides the best prediction by artificial neural network (ANN). In this work, applications of principal component analysis (PCA) are presented to solve the problem of selection of variables in the prediction of daily PM&lt;sub class=&quot;a-plus-plus&quot;&gt;10&lt;/sub&gt;. This method is tested by utilizing time series data of solar radiation, vertical wind speed, atmospheric pressure, PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt;, benzene, NO and PM&lt;sub class=&quot;a-plus-plus&quot;&gt;10&lt;/sub&gt; for Varanasi, India. The results obtained shows that PCA-ANN predicts daily PM&lt;sub class=&quot;a-plus-plus&quot;&gt;10&lt;/sub&gt; with mean absolute percentage error (MAPE) of 9.88% and it predicts better than multiple linear regression models.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s13762-018-1999-x</link>
+      <pubDate>2019-06-01</pubDate>
+      <guid>10.1007/s13762-018-1999-x</guid>
+    </item>
+    <item>
+      <title>Air Pollutant Concentration Forecast Based on Support Vector Regression and Quantum-Behaved Particle Swarm Optimization</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;In order to improve the forecasting accuracy of atmospheric pollutant concentration, a prediction model of atmospheric PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt; and nitrogen dioxide (NO&lt;sub class=&quot;a-plus-plus&quot;&gt;2&lt;/sub&gt;) concentration based on support vector regression (SVR) is established. Quantum-behaved particle swarm optimization (QPSO) algorithm is used to select the optimal parameters influencing the performance of SVR. And in order to improve the problem that the fixed SVR model is difficult to adapt to the highly nonlinear process, a simple online SVR based on re-modeling method is proposed instead of the fixed one. According to hourly PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt; and NO&lt;sub class=&quot;a-plus-plus&quot;&gt;2&lt;/sub&gt; concentrations and meteorological conditions from May 2014 to April 2015 in Wanliu Monitoring Station of Beijing in China, the experiment is carried out based on the data of 3 months. Meanwhile, PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt; concentration is predicted by three different prediction methods, including the recursive prediction method, direct prediction method, and online direct prediction method. The results show that the online direct prediction method is the most accurate in the three prediction methods. In addition, compared with original particle swarm optimization (PSO) algorithm, QPSO algorithm is tested more efficiently for the improvement of global search ability and robustness during the procedure of parameter selection. Moreover, the hybrid QPSO-SVR model proposed in this paper has higher prediction accuracy and less computational time compared with the PSO-SVR model, genetic algorithm (GA)-SVR model, and grid search (GS)-SVR model, which indicates reliability and effectiveness of the QPSO-SVR model in prediction of these two pollutant concentrations.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s10666-018-9633-3</link>
+      <pubDate>2019-04-01</pubDate>
+      <guid>10.1007/s10666-018-9633-3</guid>
+    </item>
+    <item>
+      <title>Inhalation cancer risk estimation of source-specific personal exposure for particulate matter–bound polycyclic aromatic hydrocarbons based on positive matrix factorization</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;In previous studies, inhalation cancer risk was estimated using conventional risk assessment method, which was normally based on compound-specific analysis, and cannot provide substantial data for source-specific particulate matter concentrations and pollution control. In the present study, we applied an integrated risk analysis method, which was a synthetic combination of source apportionment receptor model and risk assessment method, to estimate cancer risks associated to individual PAHs coming from specific sources. Personal exposure particulate matter samples referring to an elderly panel were collected in a community of Tianjin, Northern China, in 2009, and 12 PAH compounds were measured using GC-MS. Positive matrix factorization (PMF) was used to extract the potential sources and quantify the source contributions to the PAH mixture. Then, the lung cancer risk of each modeled source was estimated by summing up the cancer risks of all measured PAH species according to the extracted source profile. The final results indicated that the overall cancer risk was 1.12 × 10&lt;sup class=&quot;a-plus-plus&quot;&gt;−5&lt;/sup&gt;, with the largest contribution from gasoline vehicle emission (44.1%). Unlike other risk estimation studies, this study was successful in combining risk analysis and source apportionment approaches, which allow estimating the potential risk of all source types and provided suitable information to select prior control strategies and mitigate the main air pollution sources that contributing to health risks.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s11356-019-04198-y</link>
+      <pubDate>2019-04-01</pubDate>
+      <guid>10.1007/s11356-019-04198-y</guid>
+    </item>
+    <item>
+      <title>Traffic noise exposure of high-rise residential buildings in urban area</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;Noise pollution is a major factor of environmental complaints in many cities, which has significant impacts on human health. As a dominating source of environmental noise, the impact of road traffic noise is increasing. Residents living in high-rise buildings along the main road are severely affected by traffic noise. In order to assess the noise level of urban area along the main road in Guangzhou, three buildings were selected to conduct traffic noise measurements, and the questionnaire about traffic noise impact on human being was completed. Through the questionnaire, around 70% of participants consider the traffic noise has negative effect, and about 60% of participants consider the noise has moderate or much higher impact on physical comfort. Around 65% of participants consider the noise had moderately or much higher impact on their psychological comfort. By analyzing the measured data, all of the measured noise levels in three buildings exceed the recommended limit of 55 dB (A) in the daytime and 45 dB (A) in the night for residence, and the exceeded value can be up to 16 dB (A). By comparing the fitting curve of noise level transfer function on each floor relative to the reference floor, the quadratic polynomial was selected to plot the transfer function rather than cubic polynomial.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s11356-019-04640-1</link>
+      <pubDate>2019-03-01</pubDate>
+      <guid>10.1007/s11356-019-04640-1</guid>
+    </item>
+    <item>
+      <title>Seasonal prediction of particulate matter over the steel city of India using neural network models</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;The particulate matter (PM) concentration forecast is an important component to evaluate the air quality over any region of the world. The results are vital when it comes to health concern issues related to air pollution in developing countries like India and China. The present study is focused on the prediction of future concentrations of respirable suspended particulate matter (RSPM, also called PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt;) and suspended particulate matter (SPM, also called PM&lt;sub class=&quot;a-plus-plus&quot;&gt;10&lt;/sub&gt;) using the artificial neural networks (ANN) over tropical inland industrial site, Rourkela. Rourkela, popularly known as steel city of India is situated at the heart of a rich mineral belt and is endowed with many small, medium and large scale industries. This study aims to develop a seasonal ANN modelling approach for prediction of RSPM and SPM for the year 2013 by using the datasets of meteorology and RSPM and SPM concentrations covered from 2009 to 2013. Four neural network models namely, wavelet-based multi-layer perceptron feed forward neural network (WMLPNN), wavelet-based recurrent neural network, multi-layer perceptron feed forward neural network (MLPNN) and recurrent neural network (RNN) are used. The networks are trained using daily data from 2009 to 2012 on a seasonal basis, and daily predictions are performed for 2013 using seasonal based trained model. Five meteorological variables [temperature (T), relative humidity (RH), boundary layer height (BLH), surface pressure (SP), wind direction (WD) and wind speed (WS)] along with the Daubechies wavelet decomposed coefficients are considered as predictor variables in the models. A lagged scheme is introduced in wind speed input vector and networks are trained and tested up to 3 days lagged wind speed variable which greatly improved the prediction accuracy. WMLPNN is found to be outperforming all other tested schemes by providing promising results among all the tested models with lag in pre-monsoon, monsoon and winter seasons and without lag in wind speed for the post-monsoon season for both RSPM and SPM, elucidating the importance of predictor wind speed in the models. The values of R&lt;sup class=&quot;a-plus-plus&quot;&gt;2&lt;/sup&gt; varied from 0.6 to 0.91 for RSPM and 0.7 to 0.98 for SPM and RMSE values varied from 0.09 to 0.14 for RSPM and 0.03 to 0.13 for SPM for WMLPNN model. The proposed WMLPNN model in the present study appeared to be reliable and promising for the prediction of PM&lt;sub class=&quot;a-plus-plus&quot;&gt;2.5&lt;/sub&gt; and PM&lt;sub class=&quot;a-plus-plus&quot;&gt;10&lt;/sub&gt; by providing aid in passing the alerts and notices for the betterment of living beings.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s40808-018-0530-1</link>
+      <pubDate>2019-03-01</pubDate>
+      <guid>10.1007/s40808-018-0530-1</guid>
+    </item>
+    <item>
+      <title>Abstracts of the papers presented in the international conference of Indian virological society, ‘‘Global viral epidemics: a challenging threat”, during 12–14 November, 2018, at PGIMER, Chandigarh, India</title>
+      <description></description>
+      <link>http://link.springer.com/10.1007/s13337-019-00523-8</link>
+      <pubDate>2019-03-01</pubDate>
+      <guid>10.1007/s13337-019-00523-8</guid>
+    </item>
+    <item>
+      <title>Vehicular traffic noise prediction and propagation modelling using neural networks and geospatial information system</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;This study proposes a neural network (NN) model to predict and simulate the propagation of vehicular traffic noise in a dense residential area at the New Klang Valley Expressway (NKVE) in Shah Alam, Malaysia. The proposed model comprises of two main simulation steps: that is, the prediction of vehicular traffic noise using NN and the simulation of the propagation of traffic noise emission using a mathematical model. First, the NN model was developed with the following selected noise predictors: the number of motorbikes, the sum of vehicles, car ratio, heavy vehicle ratio (e.g. truck, lorry and bus), highway density and a light detection and ranging (LiDAR)-derived digital surface model (DSM). Subsequently, NN and its hyperparameters were optimised by a systematic optimisation procedure based on a grid search approach. The noise propagation model was then developed in a geographic information system (GIS) using five variables, namely road geometry, barriers, distance, interaction of air particles and weather parameters. The noise measurement was conducted continuously at 15-min intervals and the data were analysed by taking the minimum, maximum and average values recorded during the day. The measurement was performed four times a day (i.e. morning, afternoon, evening, and midnight) over two days of the week (i.e. Sunday and Monday). An optimal radial basis function NN was used with 17 hidden layers. The learning rate and momentum values were 0.05 and 0.9, respectively. Finally, the accuracy of the proposed method achieved 78.4% with less than 4.02 dB (A) error in noise prediction. Overall, the proposed models were found to be promising tools for traffic noise assessment in dense urban areas.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s10661-019-7333-3</link>
+      <pubDate>2019-02-26</pubDate>
+      <guid>10.1007/s10661-019-7333-3</guid>
+    </item>
+    <item>
+      <title>Adaptation Policy Framework for Climate Change Impacts on Transportation Sector in Developing Countries</title>
+      <description>
+                    &lt;h3 class=&quot;a-plus-plus&quot;&gt;Abstract&lt;/h3&gt;
+                    &lt;p class=&quot;a-plus-plus&quot;&gt;The global response to climate change threat has been through mitigation by reducing the GHG emissions; however, some of the climate change effects are inevitable and unavoidable. Adaptation is seen as a necessary means of addressing these inevitable climate change effects, some of which are projected to bring more frequent and severe precipitation resulting in floods. This threat of floods reinforced by rapid urbanization, resulting in urban flooding has become a looming threat to road transportation which disproportionally affects developing countries. There is an urgent need to adapt transport infrastructure to the anticipated climate change effects to minimize human as well as economic losses. In this paper, a consolidated review of literature on road transport-related climate change adaptation measures adopted across different countries around the world has been done, followed by the identification of barriers and adaptation challenges in developing countries such as India. Further, a novel methodological approach has been proposed for shaping adaptation policies in developing countries. It is aimed to enhance the resilience of transportation system specifically against urban flooding induced by climate change, reduce its impacts and strengthen the adaptive capacity of the system.&lt;/p&gt;
+                  </description>
+      <link>http://link.springer.com/10.1007/s40890-019-0071-y</link>
+      <pubDate>2019-02-14</pubDate>
+      <guid>10.1007/s40890-019-0071-y</guid>
+    </item>
+  </channel>
+</rss>
