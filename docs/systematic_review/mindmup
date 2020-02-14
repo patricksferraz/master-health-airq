@@ -281,7 +281,7 @@
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "144",
+                                  "title": "143",
                                   "id": "282.7586.783567ba-7429.b34a2b44c",
                                   "attr": {
                                     "style": {
@@ -302,7 +302,7 @@
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "236",
+                                  "title": "235",
                                   "id": "284.7586.783567ba-7429.b34a2b44c",
                                   "attr": {
                                     "style": {
@@ -323,7 +323,7 @@
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "121",
+                                  "title": "107",
                                   "id": "286.7586.783567ba-7429.b34a2b44c",
                                   "attr": {
                                     "style": {
@@ -344,11 +344,90 @@
                   "id": "202.157f.ac04393ef-394a.19651ba8c"
                 },
                 "2": {
-                  "title": "2. Artigos originais de periódicos ou conferências",
+                  "title": "2. Artigos originais de periódicos, conferências, simpósios, congressos ou livros",
                   "id": "51.ca0f.cae5a42b6-5dbe.305e942e2",
                   "attr": {
                     "style": {
                       "width": 324
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Saúde",
+                      "id": "290.11bc.e6523909f-19d4.21418deb7",
+                      "ideas": {
+                        "1": {
+                          "title": "Pubmed",
+                          "id": "291.11bc.e6523909f-19d4.21418deb7",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "292.11bc.e6523909f-19d4.21418deb7",
+                              "attr": {
+                                "style": {
+                                  "backgroundColor": "#00FFFF"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Os dois",
+                      "id": "294.11bc.e6523909f-19d4.21418deb7",
+                      "ideas": {
+                        "1": {
+                          "title": "Google Scholar",
+                          "id": "295.11bc.e6523909f-19d4.21418deb7",
+                          "ideas": {}
+                        },
+                        "2": {
+                          "title": "Springer",
+                          "id": "296.11bc.e6523909f-19d4.21418deb7",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "300.0bef.7c79e4c6d-4e5d.0867c74a",
+                              "attr": {
+                                "style": {
+                                  "backgroundColor": "#00FFFF"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "title": "ScienceDirect",
+                          "id": "297.11bc.e6523909f-19d4.21418deb7",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "308.fc1d.1088910c7-1144.e191570e5",
+                              "attr": {
+                                "style": {
+                                  "backgroundColor": "#00FFFF"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "title": "CAPES",
+                          "id": "298.11bc.e6523909f-19d4.21418deb7",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "299.11bc.e6523909f-19d4.21418deb7",
+                              "attr": {
+                                "style": {
+                                  "backgroundColor": "#00FFFF"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 },
@@ -358,6 +437,40 @@
                   "attr": {
                     "style": {
                       "width": 303
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Saúde",
+                      "id": "301.0bef.7c79e4c6d-4e5d.0867c74a",
+                      "ideas": {
+                        "1": {
+                          "title": "Pubmed",
+                          "id": "302.0bef.7c79e4c6d-4e5d.0867c74a"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Os dois",
+                      "id": "303.0bef.7c79e4c6d-4e5d.0867c74a",
+                      "ideas": {
+                        "1": {
+                          "title": "Google Scholar",
+                          "id": "304.0bef.7c79e4c6d-4e5d.0867c74a"
+                        },
+                        "2": {
+                          "title": "Springer",
+                          "id": "305.0bef.7c79e4c6d-4e5d.0867c74a"
+                        },
+                        "3": {
+                          "title": "ScienceDirect",
+                          "id": "306.0bef.7c79e4c6d-4e5d.0867c74a"
+                        },
+                        "4": {
+                          "title": "CAPES",
+                          "id": "307.0bef.7c79e4c6d-4e5d.0867c74a"
+                        }
+                      }
                     }
                   }
                 },
@@ -381,7 +494,7 @@
                   }
                 },
                 "3.25": {
-                  "title": "4. Estudos que discutem sobre qualidade do ar e impactos à saúde humana",
+                  "title": "4. Estudos que discutem a sobre qualidade do ar e seus impactos à saúde humana",
                   "id": "162.5eb0.ef4558fe5-46fa.e0885ac0f",
                   "attr": {
                     "style": {
@@ -407,7 +520,7 @@
                   }
                 },
                 "2": {
-                  "title": "2. Publicações que não se enquadaram nos critérios de inclusão; sem enfoque em dados atmosféricos, climatológicos e de saúde; assim como, publicações que não advém de periódicos ou conferências",
+                  "title": "2. Publicações que não se enquadram nos critérios de inclusão; sem enfoque em dados atmosféricos, climatológicos e de saúde; assim como, publicações que não advém de periódicos, conferências, simpósios, congressos ou livros",
                   "id": "66.e046.6e72b3fac-88f2.73597aada",
                   "attr": {
                     "style": {
@@ -1071,7 +1184,7 @@
                               "id": "221.157f.ac04393ef-394a.19651ba8c",
                               "ideas": {
                                 "1": {
-                                  "title": "0",
+                                  "title": "6",
                                   "id": "236.157f.ac04393ef-394a.19651ba8c",
                                   "attr": {
                                     "style": {
@@ -1087,6 +1200,10 @@
                                   "text": {
                                     "color": "#FF0000"
                                   }
+                                },
+                                "note": {
+                                  "index": 151,
+                                  "text": "('human health OR saúde humana') AND ('prediction model OR modelo preditivo') AND ('air quality OR air pollution OR qualidade do ar OR poluição do ar') AND ('metropolitan region OR urban area OR região metropolitana OR área urbana')"
                                 }
                               }
                             },
@@ -1095,7 +1212,7 @@
                               "id": "222.157f.ac04393ef-394a.19651ba8c",
                               "ideas": {
                                 "1": {
-                                  "title": "0",
+                                  "title": "6",
                                   "id": "239.157f.ac04393ef-394a.19651ba8c",
                                   "attr": {
                                     "style": {
