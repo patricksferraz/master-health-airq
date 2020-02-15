@@ -323,7 +323,7 @@
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "107",
+                                  "title": "122",
                                   "id": "286.7586.783567ba-7429.b34a2b44c",
                                   "attr": {
                                     "style": {
@@ -618,12 +618,21 @@
                   "id": "32.6d4d.1de48e164-d151.e3f436bbc",
                   "attr": {
                     "style": {
-                      "width": 333
+                      "width": 333,
+                      "text": {
+                        "color": "#FF0000"
+                      }
                     }
                   }
                 }
               },
-              "attr": {}
+              "attr": {
+                "style": {
+                  "text": {
+                    "color": "#FF0000"
+                  }
+                }
+              }
             },
             "3": {
               "title": "ETAPA 3",
@@ -634,13 +643,22 @@
                   "id": "33.6d4d.1de48e164-d151.e3f436bbc",
                   "attr": {
                     "style": {
-                      "width": 559
+                      "width": 559,
+                      "text": {
+                        "color": "#FF0000"
+                      }
                     }
                   },
                   "ideas": {}
                 }
               },
-              "attr": {}
+              "attr": {
+                "style": {
+                  "text": {
+                    "color": "#FF0000"
+                  }
+                }
+              }
             },
             "4": {
               "title": "ETAPA 4",
