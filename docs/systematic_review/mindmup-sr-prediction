@@ -1,0 +1,1625 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "REVISÃO SISTEMÁTICA",
+      "id": 1,
+      "attr": {
+        "position": [
+          -65,
+          -530,
+          1
+        ],
+        "style": {
+          "width": 179
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "TÍTULO",
+          "id": "3.ebd9.734342f81-8c41.479966038",
+          "ideas": {
+            "1": {
+              "title": "Previsão de doenças com inteligência artificial utilizando dados de qualidade do ar e saúde da região metropolitana de Salvador",
+              "id": "38.405a.416df43b4-fb80.6f562a845",
+              "attr": {
+                "style": {
+                  "width": 411,
+                  "textAlign": "center",
+                  "text": {
+                    "color": "#FF0000"
+                  }
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Modelo preditivo para impactos à saúde humana devido exposição a baixa qualidade do ar na região metropolitana de Salvador, Bahia",
+                  "id": "138.e22e.a9c3a8d62-6679.951f3c8aa",
+                  "attr": {
+                    "style": {
+                      "width": 416,
+                      "textAlign": "center"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {}
+        },
+        "11": {
+          "title": "QUESTÕES NORTEADORAS",
+          "id": "6.ebd9.734342f81-8c41.479966038",
+          "attr": {
+            "style": {
+              "width": 159
+            }
+          },
+          "ideas": {
+            "7": {
+              "title": "PQN. Existem estudos que propõem um modelo preditivo para impactos à saúde humana devido exposição a baixa qualidade do ar em regiões metropolitanas?",
+              "id": "309.f8bf.2bab86fca-af2a.2fa3c8935",
+              "attr": {
+                "style": {
+                  "width": 529
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Q1. Quais as principais variáveis meteorológicas e químicas estão sendo consideradas para estudo da qualidade do ar?",
+                  "id": "39.db28.f03f72ca-bc4c.ae95b4341",
+                  "attr": {
+                    "style": {
+                      "width": 399
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Q2. Quais as principais características referentes a saúde humana estão sendo correlacionadas a qualidade do ar nos estudos?",
+                  "id": "40.db28.f03f72ca-bc4c.ae95b4341",
+                  "attr": {
+                    "style": {
+                      "width": 414
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Q3. Quais técnicas estão sendo utilizadas para pré-processamento e correlação dos dados em estudo?",
+                  "id": "41.db28.f03f72ca-bc4c.ae95b4341",
+                  "attr": {
+                    "style": {
+                      "width": 435
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Q4. Quais técnicas para desenvolvimento de modelos preditivos estão sendo adotadas?",
+                  "id": "42.db28.f03f72ca-bc4c.ae95b4341",
+                  "attr": {
+                    "style": {
+                      "width": 405
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Q5. Quais os métodos de validação estão sendo utilizados para avaliar o estudo?",
+                  "id": "43.db28.f03f72ca-bc4c.ae95b4341",
+                  "attr": {
+                    "style": {
+                      "width": 409
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "41": {
+          "title": "CRITÉRIOS DE SELEÇÃO",
+          "id": "11.ebd9.734342f81-8c41.479966038",
+          "attr": {
+            "style": {
+              "width": 151
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "INCLUSÃO",
+              "id": "19.6d4d.1de48e164-d151.e3f436bbc",
+              "ideas": {
+                "1": {
+                  "title": "1. Período entre 2009-2020",
+                  "attr": {
+                    "style": {
+                      "width": 185
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "17 de novembro de 2019",
+                      "attr": {
+                        "style": {
+                          "width": 161
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Saúde",
+                          "ideas": {
+                            "1": {
+                              "title": "Pubmed",
+                              "attr": {
+                                "note": {
+                                  "index": 131,
+                                  "text": "https://www.ncbi.nlm.nih.gov/pmc/?term=(%22human+health%22+OR+%22sa%C3%BAde+humana%22)+AND+(%22prediction+model%22+OR+%22modelo+preditivo%22)+AND+(%22air+quality%22+OR+%22air+pollution%22+OR+%22qualidade+do+ar%22+OR+%22polui%C3%A7%C3%A3o+do+ar%22)+AND+(%22metropolitan+region%22+OR+%22urban+area%22+OR+%22regi%C3%A3o+metropolitana%22+OR+%22%C3%A1rea+urbana%22)"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "25",
+                                  "id": "277.7586.783567ba-7429.b34a2b44c",
+                                  "attr": {
+                                    "style": {
+                                      "backgroundColor": "#00FFFF"
+                                    }
+                                  }
+                                }
+                              },
+                              "id": "276.7586.783567ba-7429.b34a2b44c"
+                            }
+                          },
+                          "id": "275.7586.783567ba-7429.b34a2b44c"
+                        },
+                        "2": {
+                          "title": "Os dois",
+                          "ideas": {
+                            "1": {
+                              "title": "Google Scholar",
+                              "attr": {
+                                "style": {
+                                  "width": 108
+                                },
+                                "note": {
+                                  "index": 122,
+                                  "text": "https://scholar.google.com.br/scholar?as_sdt=1,5&q=(%22human+health%22+OR+%22sa%C3%BAde+humana%22)+AND+(%22prediction+model%22+OR+%22modelo+preditivo%22)+AND+(%22air+quality%22+OR+%22air+pollution%22+OR+%22qualidade+do+ar%22+OR+%22polui%C3%A7%C3%A3o+do+ar%22)+AND+(%22metropolitan+region%22+OR+%22urban+area%22+OR+%22regi%C3%A3o+metropolitana%22+OR+%22%C3%A1rea+urbana%22)&hl=pt-BR&as_vis=1"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "720",
+                                  "id": "280.7586.783567ba-7429.b34a2b44c",
+                                  "attr": {
+                                    "style": {
+                                      "backgroundColor": "#00FFFF"
+                                    }
+                                  }
+                                }
+                              },
+                              "id": "279.7586.783567ba-7429.b34a2b44c"
+                            },
+                            "2": {
+                              "title": "Springer",
+                              "attr": {
+                                "note": {
+                                  "index": 124,
+                                  "text": "https://link.springer.com/search?query=%28%22human+health%22+OR+%22sa%C3%BAde+humana%22%29+AND+%28%22prediction+model%22+OR+%22modelo+preditivo%22%29+AND+%28%22air+quality%22+OR+%22air+pollution%22+OR+%22qualidade+do+ar%22+OR+%22polui%C3%A7%C3%A3o+do+ar%22%29+AND+%28%22metropolitan+region%22+OR+%22urban+area%22+OR+%22regi%C3%A3o+metropolitana%22+OR+%22%C3%A1rea+urbana%22%29"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "143",
+                                  "id": "282.7586.783567ba-7429.b34a2b44c",
+                                  "attr": {
+                                    "style": {
+                                      "backgroundColor": "#00FFFF"
+                                    }
+                                  }
+                                }
+                              },
+                              "id": "281.7586.783567ba-7429.b34a2b44c"
+                            },
+                            "3": {
+                              "title": "ScienceDirect",
+                              "attr": {
+                                "note": {
+                                  "index": 126,
+                                  "text": "https://www.sciencedirect.com/search/advanced?qs=%22human%20health%22%20AND%20%22prediction%20model%22%20AND%20%28%22air%20quality%22%20OR%20%22air%20pollution%22%29%20AND%20%28%22metropolitan%20region%22%20OR%20%22urban%20area%22%29&show=25&sortBy=relevance"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "235",
+                                  "id": "284.7586.783567ba-7429.b34a2b44c",
+                                  "attr": {
+                                    "style": {
+                                      "backgroundColor": "#00FFFF"
+                                    }
+                                  }
+                                }
+                              },
+                              "id": "283.7586.783567ba-7429.b34a2b44c"
+                            },
+                            "4": {
+                              "title": "CAPES",
+                              "attr": {
+                                "note": {
+                                  "index": 128,
+                                  "text": "https://www.periodicos.capes.gov.br/?option=com_pmetabusca&mn=88&smn=88&type=m&metalib=aHR0cHM6Ly9ybnAtcHJpbW8uaG9zdGVkLmV4bGlicmlzZ3JvdXAuY29tL3ByaW1vX2xpYnJhcnkvbGlid2ViL2FjdGlvbi9zZWFyY2guZG8%2FZHNjbnQ9MCZwY0F2YWlsYWJpbHR5TW9kZT1mYWxzZSZmcmJnPSZzY3Auc2Nwcz1wcmltb19jZW50cmFsX211bHRpcGxlX2ZlJnRhYj1kZWZhdWx0X3RhYiZjdD1zZWFyY2gmbW9kZT1CYXNpYyZkdW09dHJ1ZSZpbmR4PTEmZm49c2VhcmNoJnZpZD1DQVBFU19WMQ%3D%3D&buscaRapidaTermo=%28%22human+health%22+OR+%22sa%C3%BAde+humana%22%29+AND+%28%22prediction+model%22+OR+%22modelo+preditivo%22%29+AND+%28%22air+quality%22+OR+%22air+pollution%22+OR+%22qualidade+do+ar%22+OR+%22polui%C3%A7%C3%A3o+do+ar%22%29+AND+%28%22metropolitan+region%22+OR+%22urban+area%22+OR+%22regi%C3%A3o+metropolitana%22+OR+%22%C3%A1rea+urbana%22%29"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "122",
+                                  "id": "286.7586.783567ba-7429.b34a2b44c",
+                                  "attr": {
+                                    "style": {
+                                      "backgroundColor": "#00FFFF"
+                                    }
+                                  }
+                                }
+                              },
+                              "id": "285.7586.783567ba-7429.b34a2b44c"
+                            }
+                          },
+                          "id": "278.7586.783567ba-7429.b34a2b44c"
+                        }
+                      },
+                      "id": "274.7586.783567ba-7429.b34a2b44c"
+                    }
+                  },
+                  "id": "202.157f.ac04393ef-394a.19651ba8c"
+                },
+                "2": {
+                  "title": "2. Artigos originais de periódicos, conferências, simpósios, congressos ou livros",
+                  "id": "51.ca0f.cae5a42b6-5dbe.305e942e2",
+                  "attr": {
+                    "style": {
+                      "width": 324
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Saúde",
+                      "id": "290.11bc.e6523909f-19d4.21418deb7",
+                      "ideas": {
+                        "1": {
+                          "title": "Pubmed",
+                          "id": "291.11bc.e6523909f-19d4.21418deb7",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "292.11bc.e6523909f-19d4.21418deb7",
+                              "attr": {
+                                "style": {
+                                  "backgroundColor": "#00FFFF"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Os dois",
+                      "id": "294.11bc.e6523909f-19d4.21418deb7",
+                      "ideas": {
+                        "1": {
+                          "title": "Google Scholar",
+                          "id": "295.11bc.e6523909f-19d4.21418deb7",
+                          "ideas": {}
+                        },
+                        "2": {
+                          "title": "Springer",
+                          "id": "296.11bc.e6523909f-19d4.21418deb7",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "300.0bef.7c79e4c6d-4e5d.0867c74a",
+                              "attr": {
+                                "style": {
+                                  "backgroundColor": "#00FFFF"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "title": "ScienceDirect",
+                          "id": "297.11bc.e6523909f-19d4.21418deb7",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "308.fc1d.1088910c7-1144.e191570e5",
+                              "attr": {
+                                "style": {
+                                  "backgroundColor": "#00FFFF"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "title": "CAPES",
+                          "id": "298.11bc.e6523909f-19d4.21418deb7",
+                          "ideas": {
+                            "1": {
+                              "title": "",
+                              "id": "299.11bc.e6523909f-19d4.21418deb7",
+                              "attr": {
+                                "style": {
+                                  "backgroundColor": "#00FFFF"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "3. Estudos escritos em inglês ou português",
+                  "id": "52.ca0f.cae5a42b6-5dbe.305e942e2",
+                  "attr": {
+                    "style": {
+                      "width": 303
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Saúde",
+                      "id": "301.0bef.7c79e4c6d-4e5d.0867c74a",
+                      "ideas": {
+                        "1": {
+                          "title": "Pubmed",
+                          "id": "302.0bef.7c79e4c6d-4e5d.0867c74a"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Os dois",
+                      "id": "303.0bef.7c79e4c6d-4e5d.0867c74a",
+                      "ideas": {
+                        "1": {
+                          "title": "Google Scholar",
+                          "id": "304.0bef.7c79e4c6d-4e5d.0867c74a"
+                        },
+                        "2": {
+                          "title": "Springer",
+                          "id": "305.0bef.7c79e4c6d-4e5d.0867c74a"
+                        },
+                        "3": {
+                          "title": "ScienceDirect",
+                          "id": "306.0bef.7c79e4c6d-4e5d.0867c74a"
+                        },
+                        "4": {
+                          "title": "CAPES",
+                          "id": "307.0bef.7c79e4c6d-4e5d.0867c74a"
+                        }
+                      }
+                    }
+                  }
+                },
+                "3.5": {
+                  "title": "5. Estudos que possuem enfoque em regiões metropolitanas",
+                  "id": "160.5eb0.ef4558fe5-46fa.e0885ac0f",
+                  "attr": {
+                    "style": {
+                      "width": 393
+                    }
+                  },
+                  "ideas": {}
+                },
+                "3.75": {
+                  "title": "6. Estudos que utilizem alguma técnica de predição para impactos à saúde ou qualidade do ar",
+                  "id": "161.5eb0.ef4558fe5-46fa.e0885ac0f",
+                  "attr": {
+                    "style": {
+                      "width": 583
+                    }
+                  }
+                },
+                "3.25": {
+                  "title": "4. Estudos que discutem a sobre qualidade do ar e seus impactos à saúde humana",
+                  "id": "162.5eb0.ef4558fe5-46fa.e0885ac0f",
+                  "attr": {
+                    "style": {
+                      "width": 478
+                    }
+                  }
+                }
+              },
+              "attr": {}
+            },
+            "2": {
+              "title": "EXCLUSÃO",
+              "id": "20.6d4d.1de48e164-d151.e3f436bbc",
+              "attr": {},
+              "ideas": {
+                "1": {
+                  "title": "1. Publicações duplicadas",
+                  "id": "58.ca0f.cae5a42b6-5dbe.305e942e2",
+                  "attr": {
+                    "style": {
+                      "width": 379
+                    }
+                  }
+                },
+                "2": {
+                  "title": "2. Publicações que não se enquadram nos critérios de inclusão; sem enfoque em dados atmosféricos, climatológicos e de saúde; assim como, publicações que não advém de periódicos, conferências, simpósios, congressos ou livros",
+                  "id": "66.e046.6e72b3fac-88f2.73597aada",
+                  "attr": {
+                    "style": {
+                      "width": 635
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "61": {
+          "title": "CRITÉRIOS DE QUALIDADE",
+          "id": "13.ebd9.734342f81-8c41.479966038",
+          "attr": {
+            "style": {
+              "width": 159,
+              "textAlign": "left"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Q1. Os dados utilizados no estudo estavam bem especificados? Foi informado a origem?",
+              "id": "63.ca0f.cae5a42b6-5dbe.305e942e2",
+              "attr": {
+                "style": {
+                  "width": 549
+                }
+              }
+            },
+            "2": {
+              "title": "Q4. As métricas para avaliação do estudo estavam bem descritas?",
+              "id": "65.ca0f.cae5a42b6-5dbe.305e942e2",
+              "attr": {
+                "style": {
+                  "width": 420
+                }
+              }
+            },
+            "3": {
+              "title": "Q5. As conclusões deixam claro se o estudo obteve sucesso?",
+              "id": "67.e046.6e72b3fac-88f2.73597aada",
+              "attr": {
+                "style": {
+                  "width": 411
+                }
+              }
+            },
+            "1.5": {
+              "title": "Q2. Foi especificado a proposta de correlação dos dados utilizados no estudo?",
+              "id": "68.e046.6e72b3fac-88f2.73597aada",
+              "attr": {
+                "style": {
+                  "width": 510
+                }
+              }
+            },
+            "1.75": {
+              "title": "Q3. Foi utilizado alguma técnica de predição para impactos à saúde humana ou qualidade do ar em regiões metropolitanas? O modelo foi bem específicado?",
+              "id": "69.e046.6e72b3fac-88f2.73597aada",
+              "attr": {
+                "style": {
+                  "width": 552
+                }
+              }
+            }
+          }
+        },
+        "71": {
+          "title": "DEFINIÇÃO DE ETAPAS",
+          "id": "14.ebd9.734342f81-8c41.479966038",
+          "ideas": {
+            "1": {
+              "title": "ETAPA 1",
+              "id": "28.6d4d.1de48e164-d151.e3f436bbc",
+              "ideas": {
+                "1": {
+                  "title": "Aplicar os critérios de seleção",
+                  "id": "31.6d4d.1de48e164-d151.e3f436bbc",
+                  "attr": {
+                    "style": {
+                      "width": 186
+                    }
+                  }
+                }
+              },
+              "attr": {}
+            },
+            "2": {
+              "title": "ETAPA 2",
+              "id": "29.6d4d.1de48e164-d151.e3f436bbc",
+              "ideas": {
+                "1": {
+                  "title": "Identificar os termos de pesquisa no título e abstract",
+                  "id": "32.6d4d.1de48e164-d151.e3f436bbc",
+                  "attr": {
+                    "style": {
+                      "width": 333,
+                      "text": {
+                        "color": "#FF0000"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "text": {
+                    "color": "#FF0000"
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "ETAPA 3",
+              "id": "30.6d4d.1de48e164-d151.e3f436bbc",
+              "ideas": {
+                "1": {
+                  "title": "Considerar apenas os estudos em que a introdução e a conclusão são voltados para o tema",
+                  "id": "33.6d4d.1de48e164-d151.e3f436bbc",
+                  "attr": {
+                    "style": {
+                      "width": 559,
+                      "text": {
+                        "color": "#FF0000"
+                      }
+                    }
+                  },
+                  "ideas": {}
+                }
+              },
+              "attr": {
+                "style": {
+                  "text": {
+                    "color": "#FF0000"
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "ETAPA 4",
+              "id": "34.6d4d.1de48e164-d151.e3f436bbc",
+              "ideas": {
+                "1": {
+                  "title": "APLICAR CRITÉRIOS DE QUALIDADE",
+                  "id": "36.6d4d.1de48e164-d151.e3f436bbc",
+                  "attr": {
+                    "style": {
+                      "width": 224
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Responder cada questão com: Sim (S), Parcialmente (P), Não (N), com as notas 1, 0,5 ou 0, respectivamente.",
+                      "id": "59.ca0f.cae5a42b6-5dbe.305e942e2",
+                      "attr": {
+                        "style": {
+                          "width": 347
+                        },
+                        "parentConnector": {
+                          "lineStyle": "dashed"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Resultado: Artigos que obtiverem acima de 4 pontos.",
+                      "id": "61.ca0f.cae5a42b6-5dbe.305e942e2",
+                      "attr": {
+                        "style": {
+                          "width": 335
+                        },
+                        "parentConnector": {
+                          "lineStyle": "dashed"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {}
+            },
+            "5": {
+              "title": "ETAPA 5",
+              "id": "288.24a2.a079021af-6ce3.5964313d6",
+              "ideas": {
+                "1": {
+                  "title": "EXTRAÇÃO DE DADOS",
+                  "id": "289.24a2.a079021af-6ce3.5964313d6"
+                }
+              }
+            }
+          },
+          "attr": {}
+        },
+        "-10": {
+          "title": "DEFINIÇÃO DE:",
+          "id": "7.ebd9.734342f81-8c41.479966038",
+          "ideas": {
+            "1": {
+              "title": "DESCRITORES",
+              "id": "22.6d4d.1de48e164-d151.e3f436bbc",
+              "attr": {},
+              "ideas": {
+                "1": {
+                  "title": "modelo preditivo",
+                  "id": "70.e24b.55bfd08f-44fa.c141416c7"
+                },
+                "3": {
+                  "title": "qualidade do ar",
+                  "id": "72.e24b.55bfd08f-44fa.c141416c7",
+                  "attr": {
+                    "style": {
+                      "width": 226
+                    }
+                  }
+                },
+                "4": {
+                  "title": "região metropolitana",
+                  "id": "156.5eb0.ef4558fe5-46fa.e0885ac0f"
+                },
+                "1.5": {
+                  "title": "saúde humana",
+                  "id": "80.e24b.55bfd08f-44fa.c141416c7"
+                }
+              }
+            },
+            "2": {
+              "title": "OPERADORES",
+              "id": "24.6d4d.1de48e164-d151.e3f436bbc",
+              "attr": {},
+              "ideas": {
+                "1": {
+                  "title": "AND",
+                  "id": "73.e24b.55bfd08f-44fa.c141416c7"
+                },
+                "2": {
+                  "title": "OR",
+                  "id": "74.e24b.55bfd08f-44fa.c141416c7"
+                }
+              }
+            },
+            "3": {
+              "title": "SINÔNIMOS/TERMOS",
+              "id": "25.6d4d.1de48e164-d151.e3f436bbc",
+              "attr": {},
+              "ideas": {
+                "4": {
+                  "title": "Português",
+                  "id": "78.e24b.55bfd08f-44fa.c141416c7",
+                  "ideas": {
+                    "1": {
+                      "title": "modelo preditivo",
+                      "id": "75.e24b.55bfd08f-44fa.c141416c7",
+                      "attr": {},
+                      "ideas": {
+                        "1": {
+                          "title": "aprendizado de máquina",
+                          "id": "94.e24b.55bfd08f-44fa.c141416c7",
+                          "attr": {
+                            "style": {
+                              "width": 164
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "aprendizagem profunda",
+                          "id": "96.e24b.55bfd08f-44fa.c141416c7",
+                          "attr": {
+                            "style": {
+                              "width": 217
+                            }
+                          }
+                        },
+                        "3": {
+                          "title": "redes neurais artificiais",
+                          "id": "97.e24b.55bfd08f-44fa.c141416c7",
+                          "attr": {}
+                        },
+                        "4": {
+                          "title": "estatística",
+                          "id": "125.5cf9.ded6da52a-6f02.0018e4744",
+                          "attr": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "title": "qualidade do ar",
+                      "id": "101.e24b.55bfd08f-44fa.c141416c7",
+                      "attr": {},
+                      "ideas": {
+                        "1": {
+                          "title": "poluição do ar",
+                          "id": "100.e24b.55bfd08f-44fa.c141416c7",
+                          "attr": {}
+                        }
+                      }
+                    },
+                    "14": {
+                      "title": "região metropolitana",
+                      "id": "77.e24b.55bfd08f-44fa.c141416c7",
+                      "attr": {
+                        "style": {
+                          "width": 227
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "área urbana",
+                          "id": "157.5eb0.ef4558fe5-46fa.e0885ac0f"
+                        }
+                      }
+                    },
+                    "1.5": {
+                      "title": "saúde humana",
+                      "id": "81.e24b.55bfd08f-44fa.c141416c7",
+                      "ideas": {
+                        "1": {
+                          "title": "internação",
+                          "id": "108.c9ea.1ea86571a-4655.518df7c86",
+                          "ideas": {}
+                        },
+                        "2": {
+                          "title": "epidemia",
+                          "id": "110.c9ea.1ea86571a-4655.518df7c86"
+                        },
+                        "3": {
+                          "title": "mortalidade",
+                          "id": "111.c9ea.1ea86571a-4655.518df7c86"
+                        },
+                        "4": {
+                          "title": "comorbidade",
+                          "id": "112.c9ea.1ea86571a-4655.518df7c86"
+                        },
+                        "6": {
+                          "title": "exposição humana",
+                          "id": "114.c9ea.1ea86571a-4655.518df7c86"
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Inglês",
+                  "id": "79.e24b.55bfd08f-44fa.c141416c7",
+                  "ideas": {
+                    "1": {
+                      "title": "prediction model",
+                      "id": "84.e24b.55bfd08f-44fa.c141416c7",
+                      "ideas": {
+                        "1": {
+                          "title": "machine learning",
+                          "id": "91.e24b.55bfd08f-44fa.c141416c7",
+                          "attr": {}
+                        },
+                        "2": {
+                          "title": "deep learning",
+                          "id": "92.e24b.55bfd08f-44fa.c141416c7",
+                          "attr": {}
+                        },
+                        "3": {
+                          "title": "artificial neural networks",
+                          "id": "93.e24b.55bfd08f-44fa.c141416c7",
+                          "attr": {
+                            "style": {
+                              "width": 160
+                            }
+                          }
+                        },
+                        "4": {
+                          "title": "statistic",
+                          "id": "126.5cf9.ded6da52a-6f02.0018e4744",
+                          "attr": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "human health",
+                      "id": "87.e24b.55bfd08f-44fa.c141416c7",
+                      "ideas": {
+                        "2": {
+                          "title": "hospitalization",
+                          "id": "119.c9ea.1ea86571a-4655.518df7c86"
+                        },
+                        "3": {
+                          "title": "epidemic",
+                          "id": "120.c9ea.1ea86571a-4655.518df7c86"
+                        },
+                        "4": {
+                          "title": "mortality",
+                          "id": "121.c9ea.1ea86571a-4655.518df7c86"
+                        },
+                        "5": {
+                          "title": "comorbidity",
+                          "id": "122.c9ea.1ea86571a-4655.518df7c86"
+                        },
+                        "6": {
+                          "title": "human exposure",
+                          "id": "123.c9ea.1ea86571a-4655.518df7c86"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "air quality",
+                      "id": "89.e24b.55bfd08f-44fa.c141416c7",
+                      "ideas": {
+                        "1": {
+                          "title": "air pollution",
+                          "id": "158.5eb0.ef4558fe5-46fa.e0885ac0f"
+                        }
+                      }
+                    },
+                    "4": {
+                      "title": "metropolitan region",
+                      "id": "90.e24b.55bfd08f-44fa.c141416c7",
+                      "attr": {
+                        "style": {
+                          "width": 132
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "urban area",
+                          "id": "159.5eb0.ef4558fe5-46fa.e0885ac0f"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "STRING DEFINIDA",
+              "id": "26.6d4d.1de48e164-d151.e3f436bbc",
+              "attr": {},
+              "ideas": {
+                "3": {
+                  "title": "(\"prediction\" OR \"forecasting\")\nAND (\"epidemic\" OR \"hospitalization\" OR \"disease\" OR \"mortality\" OR \"comorbidity\" OR \"human exposure\" OR \"health\")\nAND (\"artificial intelligence\" OR \"machine learning\" OR \"deep learning\" OR \"artificial neural networks\" OR \"statistic\" OR \"numerical model\" OR \"predictive model\")\nAND (\"atmospheric\" OR \"climatological\" OR \"air pollution\" OR \"air quality\")",
+                  "id": "132.5cf9.ded6da52a-6f02.0018e4744",
+                  "attr": {
+                    "style": {
+                      "width": 980,
+                      "text": {
+                        "color": "#FF0000"
+                      }
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Impossibilita busca no google scholar e  scienceDirect. Resultados relevantes porém numerosos para springer e CAPES e aceitável apenas para IEEE",
+                      "id": "134.841c.92c4d5478-55f2.2c5dcca22",
+                      "attr": {
+                        "style": {
+                          "width": 244,
+                          "text": {
+                            "color": "#FF0000"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "title": "(\"prediction\" OR \"forecasting\")\nAND \"disease\"\nAND (\"artificial intelligence\" OR \"machine learning\" OR \"deep learning\" OR \"artificial neural networks\")\nAND \"air quality\"",
+                  "id": "133.841c.92c4d5478-55f2.2c5dcca22",
+                  "attr": {
+                    "style": {
+                      "width": 628,
+                      "text": {
+                        "color": "#FF0000"
+                      }
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": " Google Scholar: 7.780\nCAPES: 509\nScienceDirect: 561\nSpringer: 618\nIEEE: 2",
+                      "id": "135.841c.92c4d5478-55f2.2c5dcca22",
+                      "attr": {
+                        "style": {
+                          "text": {
+                            "color": "#FF0000"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "title": "\"disease\"\nAND \"prediction model\"\nAND (\"air quality\" OR \"air pollution\")\nAND (\"metropolitan region\" OR \"urban area\")",
+                  "id": "139.e22e.a9c3a8d62-6679.951f3c8aa",
+                  "attr": {
+                    "style": {
+                      "width": 637,
+                      "text": {
+                        "color": "#FF0000"
+                      }
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "30/09/2019",
+                      "id": "144.cb94.309cc11ac-8f7b.b73bad99a",
+                      "attr": {
+                        "style": {
+                          "text": {
+                            "color": "#FF0000"
+                          }
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Google Scholar: 629 CAPES: 97 ScienceDirect: 239 Springet: 183\nIEEE: 0\nNCBI: 67",
+                          "id": "145.cb94.309cc11ac-8f7b.b73bad99a",
+                          "attr": {
+                            "style": {
+                              "text": {
+                                "color": "#FF0000"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "02/10/2019",
+                      "id": "143.cb94.309cc11ac-8f7b.b73bad99a",
+                      "ideas": {
+                        "1": {
+                          "title": "Google Scholar: 631\nCAPES: 97\nScienceDirect: 239\nSpringet: 183\nIEEE: 0\nNCBI: 67",
+                          "id": "140.e22e.a9c3a8d62-6679.951f3c8aa",
+                          "attr": {
+                            "style": {
+                              "text": {
+                                "color": "#FF0000"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "text": {
+                            "color": "#FF0000"
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "05/10/2019",
+                      "id": "152.3060.80ea94526-e051.92b5a91f",
+                      "ideas": {
+                        "1": {
+                          "title": "Google Scholar: 633 CAPES: 97 ScienceDirect: 239 Springet: 183\nIEEE: 0\nNCBI: 67",
+                          "id": "153.3060.80ea94526-e051.92b5a91f",
+                          "attr": {
+                            "style": {
+                              "text": {
+                                "color": "#FF0000"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "text": {
+                            "color": "#FF0000"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "title": "(\"human health\" OR \"saúde humana\")\nAND (\"prediction model\" OR \"modelo preditivo\")\nAND (\"air quality\" OR \"air pollution\" OR \"qualidade do ar\" OR \"poluição do ar\")\nAND (\"metropolitan region\" OR \"urban area\" OR \"região metropolitana\" OR \"área urbana\")",
+                  "id": "155.5eb0.ef4558fe5-46fa.e0885ac0f",
+                  "attr": {
+                    "style": {
+                      "width": 582
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "\"human health\"\nAND \"prediction model\"\nAND (\"air quality\" OR \"air pollution\")\nAND (\"metropolitan region\" OR \"urban area\")",
+                      "id": "178.dae7.57b53807e-d4cf.36f4aea62",
+                      "attr": {
+                        "style": {
+                          "width": 293
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "\"saúde humana\"\nAND \"modelo preditivo\"\nAND (\"qualidade do ar\" OR \"poluição do ar\")\nAND (\"região metropolitana\" OR \"área urbana\")\n",
+                      "id": "179.dae7.57b53807e-d4cf.36f4aea62",
+                      "attr": {
+                        "style": {
+                          "width": 302
+                        }
+                      }
+                    },
+                    "4": {
+                      "title": "29 de outubro de 2019",
+                      "ideas": {
+                        "1": {
+                          "title": "Saúde",
+                          "ideas": {
+                            "1": {
+                              "title": "PsycInfo",
+                              "id": "217.157f.ac04393ef-394a.19651ba8c",
+                              "ideas": {
+                                "1": {
+                                  "title": "0",
+                                  "id": "232.157f.ac04393ef-394a.19651ba8c",
+                                  "ideas": {},
+                                  "attr": {
+                                    "style": {
+                                      "text": {
+                                        "color": "#FF0000"
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "style": {
+                                  "text": {
+                                    "color": "#FF0000"
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "title": "Cochrane Library",
+                              "id": "218.157f.ac04393ef-394a.19651ba8c",
+                              "ideas": {
+                                "1": {
+                                  "title": "1",
+                                  "id": "234.157f.ac04393ef-394a.19651ba8c",
+                                  "attr": {
+                                    "style": {
+                                      "text": {
+                                        "color": "#FF0000"
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "style": {
+                                  "text": {
+                                    "color": "#FF0000"
+                                  }
+                                }
+                              }
+                            },
+                            "3": {
+                              "title": "Pubmed",
+                              "id": "219.157f.ac04393ef-394a.19651ba8c",
+                              "ideas": {
+                                "1": {
+                                  "title": "26",
+                                  "id": "235.157f.ac04393ef-394a.19651ba8c"
+                                }
+                              },
+                              "attr": {
+                                "note": {
+                                  "index": 131,
+                                  "text": "https://www.ncbi.nlm.nih.gov/pmc/?term=(%22human+health%22+OR+%22sa%C3%BAde+humana%22)+AND+(%22prediction+model%22+OR+%22modelo+preditivo%22)+AND+(%22air+quality%22+OR+%22air+pollution%22+OR+%22qualidade+do+ar%22+OR+%22polui%C3%A7%C3%A3o+do+ar%22)+AND+(%22metropolitan+region%22+OR+%22urban+area%22+OR+%22regi%C3%A3o+metropolitana%22+OR+%22%C3%A1rea+urbana%22)"
+                                }
+                              }
+                            }
+                          },
+                          "id": "216.157f.ac04393ef-394a.19651ba8c"
+                        },
+                        "2": {
+                          "title": "Tecnologia",
+                          "ideas": {
+                            "1": {
+                              "title": "IEE EXPLORER",
+                              "id": "221.157f.ac04393ef-394a.19651ba8c",
+                              "ideas": {
+                                "1": {
+                                  "title": "6",
+                                  "id": "236.157f.ac04393ef-394a.19651ba8c",
+                                  "attr": {
+                                    "style": {
+                                      "text": {
+                                        "color": "#FF0000"
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "style": {
+                                  "text": {
+                                    "color": "#FF0000"
+                                  }
+                                },
+                                "note": {
+                                  "index": 151,
+                                  "text": "('human health OR saúde humana') AND ('prediction model OR modelo preditivo') AND ('air quality OR air pollution OR qualidade do ar OR poluição do ar') AND ('metropolitan region OR urban area OR região metropolitana OR área urbana')"
+                                }
+                              }
+                            },
+                            "2": {
+                              "title": "ACM Digital Library",
+                              "id": "222.157f.ac04393ef-394a.19651ba8c",
+                              "ideas": {
+                                "1": {
+                                  "title": "6",
+                                  "id": "239.157f.ac04393ef-394a.19651ba8c",
+                                  "attr": {
+                                    "style": {
+                                      "text": {
+                                        "color": "#FF0000"
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "style": {
+                                  "text": {
+                                    "color": "#FF0000"
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "id": "220.157f.ac04393ef-394a.19651ba8c"
+                        },
+                        "3": {
+                          "title": "Os dois",
+                          "ideas": {
+                            "1": {
+                              "title": "Google Scholar",
+                              "attr": {
+                                "style": {
+                                  "width": 108
+                                },
+                                "note": {
+                                  "index": 122,
+                                  "text": "https://scholar.google.com.br/scholar?as_sdt=1,5&q=(%22human+health%22+OR+%22sa%C3%BAde+humana%22)+AND+(%22prediction+model%22+OR+%22modelo+preditivo%22)+AND+(%22air+quality%22+OR+%22air+pollution%22+OR+%22qualidade+do+ar%22+OR+%22polui%C3%A7%C3%A3o+do+ar%22)+AND+(%22metropolitan+region%22+OR+%22urban+area%22+OR+%22regi%C3%A3o+metropolitana%22+OR+%22%C3%A1rea+urbana%22)&hl=pt-BR&as_vis=1"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "899",
+                                  "id": "245.157f.ac04393ef-394a.19651ba8c"
+                                }
+                              },
+                              "id": "224.157f.ac04393ef-394a.19651ba8c"
+                            },
+                            "2": {
+                              "title": "Springer",
+                              "id": "225.157f.ac04393ef-394a.19651ba8c",
+                              "ideas": {
+                                "1": {
+                                  "title": "179",
+                                  "id": "240.157f.ac04393ef-394a.19651ba8c"
+                                }
+                              },
+                              "attr": {
+                                "note": {
+                                  "index": 124,
+                                  "text": "https://link.springer.com/search?query=%28%22human+health%22+OR+%22sa%C3%BAde+humana%22%29+AND+%28%22prediction+model%22+OR+%22modelo+preditivo%22%29+AND+%28%22air+quality%22+OR+%22air+pollution%22+OR+%22qualidade+do+ar%22+OR+%22polui%C3%A7%C3%A3o+do+ar%22%29+AND+%28%22metropolitan+region%22+OR+%22urban+area%22+OR+%22regi%C3%A3o+metropolitana%22+OR+%22%C3%A1rea+urbana%22%29"
+                                }
+                              }
+                            },
+                            "4": {
+                              "title": "ScienceDirect",
+                              "id": "227.157f.ac04393ef-394a.19651ba8c",
+                              "ideas": {
+                                "1": {
+                                  "title": "298",
+                                  "id": "241.157f.ac04393ef-394a.19651ba8c"
+                                }
+                              },
+                              "attr": {
+                                "note": {
+                                  "index": 126,
+                                  "text": "https://www.sciencedirect.com/search/advanced?qs=%22human%20health%22%20AND%20%22prediction%20model%22%20AND%20%28%22air%20quality%22%20OR%20%22air%20pollution%22%29%20AND%20%28%22metropolitan%20region%22%20OR%20%22urban%20area%22%29&show=25&sortBy=relevance"
+                                }
+                              }
+                            },
+                            "5": {
+                              "title": "CAPES",
+                              "id": "228.157f.ac04393ef-394a.19651ba8c",
+                              "ideas": {
+                                "1": {
+                                  "title": "137",
+                                  "id": "242.157f.ac04393ef-394a.19651ba8c"
+                                }
+                              },
+                              "attr": {
+                                "note": {
+                                  "index": 128,
+                                  "text": "https://www.periodicos.capes.gov.br/?option=com_pmetabusca&mn=88&smn=88&type=m&metalib=aHR0cHM6Ly9ybnAtcHJpbW8uaG9zdGVkLmV4bGlicmlzZ3JvdXAuY29tL3ByaW1vX2xpYnJhcnkvbGlid2ViL2FjdGlvbi9zZWFyY2guZG8%2FZHNjbnQ9MCZwY0F2YWlsYWJpbHR5TW9kZT1mYWxzZSZmcmJnPSZzY3Auc2Nwcz1wcmltb19jZW50cmFsX211bHRpcGxlX2ZlJnRhYj1kZWZhdWx0X3RhYiZjdD1zZWFyY2gmbW9kZT1CYXNpYyZkdW09dHJ1ZSZpbmR4PTEmZm49c2VhcmNoJnZpZD1DQVBFU19WMQ%3D%3D&buscaRapidaTermo=%28%22human+health%22+OR+%22sa%C3%BAde+humana%22%29+AND+%28%22prediction+model%22+OR+%22modelo+preditivo%22%29+AND+%28%22air+quality%22+OR+%22air+pollution%22+OR+%22qualidade+do+ar%22+OR+%22polui%C3%A7%C3%A3o+do+ar%22%29+AND+%28%22metropolitan+region%22+OR+%22urban+area%22+OR+%22regi%C3%A3o+metropolitana%22+OR+%22%C3%A1rea+urbana%22%29"
+                                }
+                              }
+                            },
+                            "6": {
+                              "title": "ResearchGate",
+                              "id": "229.157f.ac04393ef-394a.19651ba8c",
+                              "ideas": {
+                                "1": {
+                                  "title": "3",
+                                  "id": "243.157f.ac04393ef-394a.19651ba8c",
+                                  "attr": {
+                                    "style": {
+                                      "text": {
+                                        "color": "#FF0000"
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "style": {
+                                  "text": {
+                                    "color": "#FF0000"
+                                  }
+                                }
+                              }
+                            },
+                            "7": {
+                              "title": "Scielo",
+                              "id": "230.157f.ac04393ef-394a.19651ba8c",
+                              "ideas": {
+                                "1": {
+                                  "title": "0",
+                                  "id": "244.157f.ac04393ef-394a.19651ba8c",
+                                  "attr": {
+                                    "style": {
+                                      "text": {
+                                        "color": "#FF0000"
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "style": {
+                                  "text": {
+                                    "color": "#FF0000"
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "id": "223.157f.ac04393ef-394a.19651ba8c"
+                        }
+                      },
+                      "id": "215.157f.ac04393ef-394a.19651ba8c",
+                      "attr": {}
+                    },
+                    "5": {
+                      "title": "17 de novembro de 2019",
+                      "ideas": {
+                        "1": {
+                          "title": "Saúde",
+                          "ideas": {
+                            "3": {
+                              "title": "Pubmed",
+                              "attr": {
+                                "note": {
+                                  "index": 131,
+                                  "text": "https://www.ncbi.nlm.nih.gov/pmc/?term=(%22human+health%22+OR+%22sa%C3%BAde+humana%22)+AND+(%22prediction+model%22+OR+%22modelo+preditivo%22)+AND+(%22air+quality%22+OR+%22air+pollution%22+OR+%22qualidade+do+ar%22+OR+%22polui%C3%A7%C3%A3o+do+ar%22)+AND+(%22metropolitan+region%22+OR+%22urban+area%22+OR+%22regi%C3%A3o+metropolitana%22+OR+%22%C3%A1rea+urbana%22)"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "27",
+                                  "id": "254.7586.783567ba-7429.b34a2b44c"
+                                }
+                              },
+                              "id": "253.7586.783567ba-7429.b34a2b44c"
+                            }
+                          },
+                          "id": "248.7586.783567ba-7429.b34a2b44c"
+                        },
+                        "3": {
+                          "title": "Os dois",
+                          "ideas": {
+                            "1": {
+                              "title": "Google Scholar",
+                              "attr": {
+                                "style": {
+                                  "width": 108
+                                },
+                                "note": {
+                                  "index": 122,
+                                  "text": "https://scholar.google.com.br/scholar?as_sdt=1,5&q=(%22human+health%22+OR+%22sa%C3%BAde+humana%22)+AND+(%22prediction+model%22+OR+%22modelo+preditivo%22)+AND+(%22air+quality%22+OR+%22air+pollution%22+OR+%22qualidade+do+ar%22+OR+%22polui%C3%A7%C3%A3o+do+ar%22)+AND+(%22metropolitan+region%22+OR+%22urban+area%22+OR+%22regi%C3%A3o+metropolitana%22+OR+%22%C3%A1rea+urbana%22)&hl=pt-BR&as_vis=1"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "926",
+                                  "id": "262.7586.783567ba-7429.b34a2b44c"
+                                }
+                              },
+                              "id": "261.7586.783567ba-7429.b34a2b44c"
+                            },
+                            "2": {
+                              "title": "Springer",
+                              "attr": {
+                                "note": {
+                                  "index": 124,
+                                  "text": "https://link.springer.com/search?query=%28%22human+health%22+OR+%22sa%C3%BAde+humana%22%29+AND+%28%22prediction+model%22+OR+%22modelo+preditivo%22%29+AND+%28%22air+quality%22+OR+%22air+pollution%22+OR+%22qualidade+do+ar%22+OR+%22polui%C3%A7%C3%A3o+do+ar%22%29+AND+%28%22metropolitan+region%22+OR+%22urban+area%22+OR+%22regi%C3%A3o+metropolitana%22+OR+%22%C3%A1rea+urbana%22%29"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "177",
+                                  "id": "264.7586.783567ba-7429.b34a2b44c"
+                                }
+                              },
+                              "id": "263.7586.783567ba-7429.b34a2b44c"
+                            },
+                            "3": {
+                              "title": "ScienceDirect",
+                              "attr": {
+                                "note": {
+                                  "index": 126,
+                                  "text": "https://www.sciencedirect.com/search/advanced?qs=%22human%20health%22%20AND%20%22prediction%20model%22%20AND%20%28%22air%20quality%22%20OR%20%22air%20pollution%22%29%20AND%20%28%22metropolitan%20region%22%20OR%20%22urban%20area%22%29&show=25&sortBy=relevance"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "298",
+                                  "id": "266.7586.783567ba-7429.b34a2b44c"
+                                }
+                              },
+                              "id": "265.7586.783567ba-7429.b34a2b44c"
+                            },
+                            "4": {
+                              "title": "CAPES",
+                              "attr": {
+                                "note": {
+                                  "index": 128,
+                                  "text": "https://www.periodicos.capes.gov.br/?option=com_pmetabusca&mn=88&smn=88&type=m&metalib=aHR0cHM6Ly9ybnAtcHJpbW8uaG9zdGVkLmV4bGlicmlzZ3JvdXAuY29tL3ByaW1vX2xpYnJhcnkvbGlid2ViL2FjdGlvbi9zZWFyY2guZG8%2FZHNjbnQ9MCZwY0F2YWlsYWJpbHR5TW9kZT1mYWxzZSZmcmJnPSZzY3Auc2Nwcz1wcmltb19jZW50cmFsX211bHRpcGxlX2ZlJnRhYj1kZWZhdWx0X3RhYiZjdD1zZWFyY2gmbW9kZT1CYXNpYyZkdW09dHJ1ZSZpbmR4PTEmZm49c2VhcmNoJnZpZD1DQVBFU19WMQ%3D%3D&buscaRapidaTermo=%28%22human+health%22+OR+%22sa%C3%BAde+humana%22%29+AND+%28%22prediction+model%22+OR+%22modelo+preditivo%22%29+AND+%28%22air+quality%22+OR+%22air+pollution%22+OR+%22qualidade+do+ar%22+OR+%22polui%C3%A7%C3%A3o+do+ar%22%29+AND+%28%22metropolitan+region%22+OR+%22urban+area%22+OR+%22regi%C3%A3o+metropolitana%22+OR+%22%C3%A1rea+urbana%22%29"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "140",
+                                  "id": "268.7586.783567ba-7429.b34a2b44c"
+                                }
+                              },
+                              "id": "267.7586.783567ba-7429.b34a2b44c"
+                            }
+                          },
+                          "id": "260.7586.783567ba-7429.b34a2b44c"
+                        }
+                      },
+                      "id": "247.7586.783567ba-7429.b34a2b44c",
+                      "attr": {
+                        "style": {
+                          "width": 161
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {}
+        },
+        "-20": {
+          "title": "BASES DE BUSCA",
+          "id": "8.ebd9.734342f81-8c41.479966038",
+          "ideas": {
+            "2": {
+              "title": "Saúde",
+              "id": "195.157f.ac04393ef-394a.19651ba8c",
+              "ideas": {
+                "1": {
+                  "title": "PsycInfo",
+                  "id": "197.157f.ac04393ef-394a.19651ba8c",
+                  "attr": {
+                    "parentConnector": {
+                      "lineStyle": "dashed"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Cochrane Library",
+                  "id": "198.157f.ac04393ef-394a.19651ba8c",
+                  "attr": {
+                    "parentConnector": {
+                      "lineStyle": "dashed"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Pubmed",
+                  "id": "199.157f.ac04393ef-394a.19651ba8c"
+                }
+              }
+            },
+            "3": {
+              "title": "Tecnologia",
+              "id": "196.157f.ac04393ef-394a.19651ba8c",
+              "ideas": {
+                "1": {
+                  "title": "IEE EXPLORER",
+                  "id": "46.ca0f.cae5a42b6-5dbe.305e942e2",
+                  "attr": {
+                    "parentConnector": {
+                      "lineStyle": "dashed"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "ACM Digital Library",
+                  "id": "200.157f.ac04393ef-394a.19651ba8c",
+                  "attr": {
+                    "parentConnector": {
+                      "lineStyle": "dashed"
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Os dois",
+              "id": "201.157f.ac04393ef-394a.19651ba8c",
+              "ideas": {
+                "1": {
+                  "title": "Springer",
+                  "id": "48.ca0f.cae5a42b6-5dbe.305e942e2",
+                  "attr": {}
+                },
+                "3": {
+                  "title": "ScienceDirect",
+                  "id": "47.ca0f.cae5a42b6-5dbe.305e942e2",
+                  "attr": {}
+                },
+                "4": {
+                  "title": "CAPES",
+                  "id": "209.157f.ac04393ef-394a.19651ba8c"
+                },
+                "5": {
+                  "title": "ResearchGate",
+                  "id": "210.157f.ac04393ef-394a.19651ba8c",
+                  "attr": {
+                    "parentConnector": {
+                      "lineStyle": "dashed"
+                    }
+                  }
+                },
+                "6": {
+                  "title": "Scielo",
+                  "id": "211.157f.ac04393ef-394a.19651ba8c",
+                  "attr": {
+                    "parentConnector": {
+                      "lineStyle": "dashed"
+                    }
+                  }
+                },
+                "0.5": {
+                  "title": "Google Scholar",
+                  "id": "45.ca0f.cae5a42b6-5dbe.305e942e2",
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "width": 108
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              191,
+              156,
+              1
+            ]
+          }
+        },
+        "-21": {
+          "title": "EXTRAÇÃO DE DADOS",
+          "ideas": {
+            "1": {
+              "title": "Autor",
+              "id": "183.157f.ac04393ef-394a.19651ba8c"
+            },
+            "2": {
+              "title": "Técnicas",
+              "id": "184.157f.ac04393ef-394a.19651ba8c"
+            },
+            "3": {
+              "title": "Datasets utilizados no estudo",
+              "attr": {
+                "style": {
+                  "width": 193
+                }
+              },
+              "id": "185.157f.ac04393ef-394a.19651ba8c"
+            },
+            "4": {
+              "title": "Período",
+              "id": "186.157f.ac04393ef-394a.19651ba8c"
+            },
+            "5": {
+              "title": "Região de estudo",
+              "id": "187.157f.ac04393ef-394a.19651ba8c"
+            },
+            "6": {
+              "title": "Targets de qualidade do ar",
+              "attr": {
+                "style": {
+                  "width": 180
+                }
+              },
+              "id": "188.157f.ac04393ef-394a.19651ba8c"
+            },
+            "7": {
+              "title": "Targets de saúde",
+              "id": "189.157f.ac04393ef-394a.19651ba8c"
+            },
+            "8": {
+              "title": "Métricas de avaliação",
+              "id": "190.157f.ac04393ef-394a.19651ba8c"
+            },
+            "9": {
+              "title": "Principais contribuições/resultados",
+              "attr": {
+                "style": {
+                  "width": 227
+                }
+              },
+              "id": "191.157f.ac04393ef-394a.19651ba8c"
+            },
+            "10": {
+              "title": "Revista ao qual foi publicado",
+              "attr": {
+                "style": {
+                  "width": 180
+                }
+              },
+              "id": "192.157f.ac04393ef-394a.19651ba8c"
+            },
+            "11": {
+              "title": "Fator de impacto",
+              "id": "193.157f.ac04393ef-394a.19651ba8c"
+            },
+            "8.5": {
+              "title": "Workflow",
+              "id": "246.7586.783567ba-7429.b34a2b44c"
+            }
+          },
+          "id": "182.157f.ac04393ef-394a.19651ba8c",
+          "attr": {
+            "parentConnector": {
+              "lineStyle": "dashed"
+            },
+            "position": [
+              201.199951171875,
+              728.60009765625,
+              2
+            ]
+          }
+        }
+      }
+    }
+  },
+  "title": "",
+  "links": [],
+  "attr": {
+    "theme": "simple"
+  }
+}
