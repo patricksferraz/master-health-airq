@@ -1,0 +1,12 @@
+Precisamos ter ao final um dataset com a seguinte caracteristica:
+Internações para o CID-10 Cap X. Colunas .... 
+1-mes/ano
+2-hospital
+3-coordenadas hospital
+4-sexo
+5-fx etária
+6-doença
+7-carater de atendimento
+8-cor
+9-regime
+10-qnt internações
