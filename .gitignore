@@ -1,3 +1,7 @@
+# Windows
 desktop.ini
+
+# Directory
+.vscode/
 .ipynb_checkpoints/
 __pycache__/
