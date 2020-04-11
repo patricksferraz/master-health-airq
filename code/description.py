@@ -3,6 +3,7 @@ unused_cols = [
     'ANO_CMPT',
     'MES_CMPT',
     'ESPEC',
+    'CGC_HOSP',
     'N_AIH',
     'IDENT',
     'UTI_MES_IN',
