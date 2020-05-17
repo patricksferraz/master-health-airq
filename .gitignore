@@ -2,7 +2,12 @@
 desktop.ini
 
 # Directory
-.vscode/
+master-docs/
+
+# Cache
 .ipynb_checkpoints/
 __pycache__/
-master-docs/
+
+# Env
+.env
+.vscode/
