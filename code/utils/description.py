@@ -402,129 +402,129 @@ ibge = {
         'density': 3859.44,
         'pib': 21231.48,
         'csus': 367,
-        'male_le5': 83611,
-        'female_le5': 81658,
-        'male_ge60': 101464,
-        'female_ge60': 165689
+        'male $\leq$ 5': 83611,
+        'female $\leq$ 5': 81658,
+        'male $\geq$ 60': 101464,
+        'female $\geq$ 60': 165689
     },
     'Camaçari': {
         'pop': 242970,
         'density': 309.65,
         'pib': 77816.68,
         'csus': 64,
-        'male_le5': 10465,
-        'female_le5': 9614,
-        'male_ge60': 6601,
-        'female_ge60': 7605
+        'male $\leq$ 5': 10465,
+        'female $\leq$ 5': 9614,
+        'male $\geq$ 60': 6601,
+        'female $\geq$ 60': 7605
     },
     'São Francisco do Conde': {
         'pop': 33183,
         'density': 126.24,
         'pib': 253895.58,
         'csus': 22,
-        'male_le5': 1344,
-        'female_le5': 1349,
-        'male_ge60': 972,
-        'female_ge60': 1274
+        'male $\leq$ 5': 1344,
+        'female $\leq$ 5': 1349,
+        'male $\geq$ 60': 972,
+        'female $\geq$ 60': 1274
     },
     'Lauro de Freitas': {
         'pop': 163449,
         'density': 2833.38,
         'pib': 31809.81,
         'csus': 24,
-        'male_le5': 6163,
-        'female_le5': 5832,
-        'male_ge60': 5210,
-        'female_ge60': 6485
+        'male $\leq$ 5': 6163,
+        'female $\leq$ 5': 5832,
+        'male $\geq$ 60': 5210,
+        'female $\geq$ 60': 6485
     },
     'Simões Filho': {
         'pop': 118047,
         'density': 586.65,
         'pib': 39118.47,
         'csus': 17,
-        'male_le5': 5064,
-        'female_le5': 4973,
-        'male_ge60': 3411,
-        'female_ge60': 4091
+        'male $\leq$ 5': 5064,
+        'female $\leq$ 5': 4973,
+        'male $\geq$ 60': 3411,
+        'female $\geq$ 60': 4091
     },
     'Candeias': {
         'pop': 83158,
         'density': 321.87,
         'pib': 43135.87,
         'csus': 31,
-        'male_le5': 3192,
-        'female_le5': 3083,
-        'male_ge60': 2806,
-        'female_ge60': 3591
+        'male $\leq$ 5': 3192,
+        'female $\leq$ 5': 3083,
+        'male $\geq$ 60': 2806,
+        'female $\geq$ 60': 3591
     },
     "Dias d'Ávila": {
         'pop': 66440,
         'density': 360.64,
         'pib': 37896.15,
         'csus': 11,
-        'male_le5': 3003,
-        'female_le5': 2879,
-        'male_ge60': 1904,
-        'female_ge60': 2235
+        'male $\leq$ 5': 3003,
+        'female $\leq$ 5': 2879,
+        'male $\geq$ 60': 1904,
+        'female $\geq$ 60': 2235
     },
     'Mata de São João': {
         'pop': 40183,
         'density': 63.46,
         'pib': 22407.10,
         'csus': 9,
-        'male_le5': 1672,
-        'female_le5': 1567,
-        'male_ge60': 1427,
-        'female_ge60': 1789
+        'male $\leq$ 5': 1672,
+        'female $\leq$ 5': 1567,
+        'male $\geq$ 60': 1427,
+        'female $\geq$ 60': 1789
     },
     'Pojuca': {
         'pop': 33066,
         'density': 113.97,
         'pib': 21834.06,
         'csus': 17,
-        'male_le5': 1249,
-        'female_le5': 1262,
-        'male_ge60': 1129,
-        'female_ge60': 1388
+        'male $\leq$ 5': 1249,
+        'female $\leq$ 5': 1262,
+        'male $\geq$ 60': 1129,
+        'female $\geq$ 60': 1388
     },
     'São Sebastião do Passé': {
         'pop': 42153,
         'density': 78.30,
         'pib': 11965.30,
         'csus': 25,
-        'male_le5': 1504,
-        'female_le5': 1492,
-        'male_ge60': 1735,
-        'female_ge60': 2104
+        'male $\leq$ 5': 1504,
+        'female $\leq$ 5': 1492,
+        'male $\geq$ 60': 1735,
+        'female $\geq$ 60': 2104
     },
     'Vera Cruz': {
         'pop': 37567,
         'density': 125.33,
         'pib': 11752.15,
         'csus': 19,
-        'male_le5': 1358,
-        'female_le5': 1355,
-        'male_ge60': 1821,
-        'female_ge60': 1954
+        'male $\leq$ 5': 1358,
+        'female $\leq$ 5': 1355,
+        'male $\geq$ 60': 1821,
+        'female $\geq$ 60': 1954
     },
     'Madre de Deus': {
         'pop': 17376,
         'density': 539.61,
         'pib': 21144.38,
         'csus': 13,
-        'male_le5': 615,
-        'female_le5': 608,
-        'male_ge60': 565,
-        'female_ge60': 750
+        'male $\leq$ 5': 615,
+        'female $\leq$ 5': 608,
+        'male $\geq$ 60': 565,
+        'female $\geq$ 60': 750
     },
     'Itaparica': {
         'pop': 20725,
         'density': 175.58,
         'pib': 9824.79,
         'csus': 10,
-        'male_le5': 796,
-        'female_le5': 753,
-        'male_ge60': 918,
-        'female_ge60': 1131
+        'male $\leq$ 5': 796,
+        'female $\leq$ 5': 753,
+        'male $\geq$ 60': 918,
+        'female $\geq$ 60': 1131
     }
 }
