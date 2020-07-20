@@ -20,6 +20,7 @@ conda activate env-name
 Second, enable interactive tools for jupyter lab and execute
 
 ```shell
+conda install -c conda-forge nodejs
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter-lab
 ```
