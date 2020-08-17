@@ -4,6 +4,7 @@ desktop.ini
 # Directory
 master-docs/
 results/
+datas/
 
 # Cache
 .ipynb_checkpoints/
