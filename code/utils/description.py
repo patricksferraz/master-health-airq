@@ -394,7 +394,10 @@ cities_mrs = {
     '291992': 'Madre de Deus',
     '291610': 'Itaparica'
 }
-cities_cols = ['MUNIC_RES', 'MUNIC_MOV']
+cities_cols = [
+    'MUNIC_RES',
+#     'MUNIC_MOV'
+]
 
 ibge = {
     'Salvador': {
